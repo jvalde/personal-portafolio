@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/jvalde
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jvalde.com
+  * I am jvalde (https://keybase.io/jvalde) on keybase.
+  * I have a public key ASAYv3Rdzo_qLvSNW1fkwbvjregmBCrHe0obCYZ-IBMfEgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01207f275822af5e3688bdecdbca46c72f93e0b85f3828bdd7979e10ad731ed8bbee0a",
+      "host": "keybase.io",
+      "kid": "012018bf745dce8fea2ef48d5b57e4c1bbe3ade826042ac77b4a1b09867e20131f120a",
+      "uid": "d64ad11daf0047bcf8ed05d198775119",
+      "username": "jvalde"
+    },
+    "merkle_root": {
+      "ctime": 1672158100,
+      "hash": "b8f91c0746594049c7084c280ec1b4165052c10fb94e1963c3fccbb5a0b17264eddc8f5f14f4db2d9bef274cbf06acd7605a5acc2608eb2678db7ce02a16346a",
+      "hash_meta": "0a41dfafca69103978fcd278880534b411cd6cfa706289b9165880f7a7d6cd03",
+      "seqno": 23774108
+    },
+    "service": {
+      "entropy": "MucfKRwqJ355tqOdeXt4Muny",
+      "hostname": "jvalde.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.3"
+  },
+  "ctime": 1672158115,
+  "expire_in": 504576000,
+  "prev": "2b616f6b2552164c003c4e9e34c957c374870ca7a5fc380907a656fe0c51a8c8",
+  "seqno": 23,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgGL90Xc6P6i70jVtX5MG7463oJgQqx3tKGwmGfiATHxIKp3BheWxvYWTESpcCF8QgK2FvayVSFkwAPE6eNMlXw3SHDKel/DgJB6ZW/gxRqMjEILBkOsGz2Oymuu1VY9PuoVTZchcotn1xYuaGft+1F+HWAgHCo3NpZ8RAOlPUazfS04K+nHc9v/o3gpFiBbLEXCQZWJYHTtbWvk7OYlwX4ohC3B6RU7soxY6uQK26bqyhZJbTHsGKwcHhDKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGkl6+sW8Epv6OsOtlplFZvyDqDYB2cNPLyymy6YrxOQo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jvalde
+
+==================================================================
