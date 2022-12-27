@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Jorge Valderrama
+- 👀 I’m interested in Agile software development, continuous improvement and Bitcoin
+- 🌱 I’m currently learning about the lightning network
